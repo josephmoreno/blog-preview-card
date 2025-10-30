@@ -22,8 +22,8 @@ Blog preview card made with HTML and CSS
 
 ### Links
 
-- [https://www.frontendmentor.io/solutions/blog-preview-card-XmO5r46oCS](Solution URL)
-- [https://josephmoreno.github.io/blog-preview-card/](Live Site URL)
+- [Solution URL](https://www.frontendmentor.io/solutions/blog-preview-card-XmO5r46oCS)
+- [Live Site URL](https://josephmoreno.github.io/blog-preview-card/)
 
 ## My process
 
