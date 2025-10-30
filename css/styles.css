@@ -16,7 +16,7 @@ body {
 
 .card {
     background-color: #fff;
-    max-inline-size: 325px;
+    inline-size: 325px;
     margin-inline: auto;
     padding: 24px;
     border-radius: 16px;
